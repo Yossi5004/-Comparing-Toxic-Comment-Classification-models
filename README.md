@@ -5,5 +5,5 @@ My main goal is to show the performance of each technique with Transformer model
 For Zero, One and Few shot learning I used GPT-3, T5 and BART models, and for fine-tuning I used GPT-2 model. Experiments were performed on the dataset from Wikipedia (Jigsaw’s dataset) Toxic Comment, and the results were compared to the BERT fine-tuning model from paper [6].
 
 # Files
-1. Jupiter notebook.
+1. Jupyter notebook.
 2. PDF report.
